@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+const char pagina[] = R"=====<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,4 +57,4 @@ img {
     </div>
 </div>
 </body>
-</html>
+</html>=====";
