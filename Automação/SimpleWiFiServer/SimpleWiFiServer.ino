@@ -26,8 +26,7 @@ ported for sparkfun esp32
  */
 
 #include <WiFi.h>
-#include "pagina.h"
-
+#include "
 const char* ssid     = "yourssid";
 const char* password = "yourpasswd";
 
